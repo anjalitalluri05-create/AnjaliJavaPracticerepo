@@ -8,9 +8,10 @@ public class Methods {
 		return myage+2;
 		
 	}
+	//i am add Anju
 	static void vote(int ageis) {
 		if(ageis>=18) {
-			System.out.println("you can vote ");
+			System.out.println("you can vote testing pull command ");
 		}else {
 			System.out.println("you can not vote under age");
 		}
