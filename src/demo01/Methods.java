@@ -11,7 +11,8 @@ public class Methods {
 	//i am add Bhavyansh adding comment to test git push
 	static void vote(int ageis) {
 		if(ageis>=18) {
-			System.out.println("you can vote  Bhavyansh testing  pull command ");
+			System.out.println("you can vote  Bhavyansh testing  push command ");
+			System.out.println("Dhana is writing this line to test pull command ");
 		}else {
 			System.out.println("you can not vote under age");
 		}
